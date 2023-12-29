@@ -401,6 +401,10 @@ footer button:hover {
         text-shadow: 6px 6px 10px rgba(0, 0, 0, 0.5); /* Set the text shadow */
         background-color: transparent;
     }
+    
+    #name {
+        font-size: 16px;
+    }
 }
 
 @media (max-width: 1200px) {
@@ -436,7 +440,6 @@ footer button:hover {
 
     #name{
         margin-left: 10px;
-        font-size: 18px;
     }
 
     nav button {
